@@ -103,7 +103,7 @@ export default function LilianRangelPortfolio() {
               onClick={() => scrollToSection("home")}
             >
               <div className="w-12 h-12 bg-gradient-to-br from-cyan-400 to-cyan-600 rounded-lg flex items-center justify-center">
-                <span className="text-2xl font-bold"><img src="/public/lilian_icon.png"></img></span>
+                <span className="text-2xl font-bold"><img src="./public/lilian_icon.png"></img></span>
               </div>
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-cyan-400 to-white bg-clip-text text-transparent">
@@ -180,7 +180,7 @@ export default function LilianRangelPortfolio() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
           <div className="mb-8 flex items-center justify-center w-full">
             <img
-              src="/src/assets/logo_lilian.png"
+              src="./assets/logo_lilian.png"
               alt="Lilian Rangel Logo"
               className="w-70 h-90 object-cover drop-shadow-2xl animate-float"
             />
