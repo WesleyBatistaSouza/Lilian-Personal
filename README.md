@@ -1,7 +1,7 @@
 # 🏋️‍♀️ Lilian Rangel - Personal Trainer Portfolio
 
 <div align="center">
-  <img src="/lilian_logo.png" alt="Lilian Rangel Logo" width="200"/>
+  <img src="//public/lilian_icon.png" alt="Lilian Rangel Logo" width="200"/>
   
   ### Website Portfólio Profissional para Personal Trainer
   
