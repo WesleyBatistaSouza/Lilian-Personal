@@ -249,7 +249,7 @@ export default function LilianRangelPortfolio() {
 
             <div className="grid grid-cols-2 gap-6">
               {[
-                { number: "500+", label: "Alunos Transformados" },
+                { number: "100+", label: "Alunos Transformados" },
                 { number: "8+", label: "Anos de Experiência" },
                 { number: "95%", label: "Taxa de Satisfação" },
                 { number: "100%", label: "Dedicação" },
