@@ -352,7 +352,7 @@ export default function LilianRangelPortfolio() {
             </span>
           </h2>
           <p className="text-gray-400 mb-12 text-lg">
-            Entre em contato e agende sua avaliação gratuita
+            Entre em contato agora mesmo e garanta sua planilha de treinos e agende sua avaliação gratuita
           </p>
 
           <div className="grid md:grid-cols-2 gap-6 mb-12">
@@ -387,20 +387,7 @@ export default function LilianRangelPortfolio() {
           </div>
         </div>
       </section>
-      <section className="py-20 bg-gradient-to-b from-black to-gray-900 flex justify-center items-center">
-        <div className="max-w-7xl mx-auto text-center flex items-center justify-center flex-col gap-3">
-
-          <h2 className="text-4xl sm:text-5xl font-bold text-center mb-12">
-             <span className="bg-gradient-to-r from-cyan-400 to-white bg-clip-text text-transparent flex items-center justify-center flex-col">
-              
-            Baixe um exemplar de treino aqui!
-            </span>
-            </h2>
-           
-            <a download href="./file/Cronograma_Lilian.xlsx" className="bg-gradient-to-br text-center items-center justify-center flex gap-2 text-4xl cursor-pointer px-6 py-1 from-cyan-500 to-cyan-600 hover:from-cyan-600 hover:to-cyan-700 text-white rounded-full transition-all duration-300 transform hover:scale-105">Planilha de Treino <DownloadCloudIcon /></a>
-        </div>
-          
-      </section>
+      
 
       {/* Footer */}
       <footer className="bg-black border-t border-gray-800 py-8">
